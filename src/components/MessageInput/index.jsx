@@ -35,4 +35,4 @@ function MessageInput({ roomId }) {
     );
 }
 
-export { MessageInput}
+export { MessageInput};
